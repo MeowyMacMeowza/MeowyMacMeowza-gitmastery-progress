@@ -72,5 +72,14 @@
       "Grocery list items removed from shopping-list.txt are not committed."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786723484.766218,
+    "completed_at": 1786723487.946568,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
   }
 ]
